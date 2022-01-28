@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/01/27/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>第一篇博客</title>
+    <url>/2022/01/28/test/</url>
+    <content><![CDATA[<h1 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo n [filename] #发布名为filename的博客文章(markdown文档)</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h2 id="markdown语法"><a href="#markdown语法" class="headerlink" title="markdown语法"></a>markdown语法</h2><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="section">#一级标题</span></span><br><span class="line"><span class="section">##二级标题</span></span><br><span class="line"><span class="section">###三级标题</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="bullet">-</span> 列表1</span><br><span class="line"><span class="bullet">-</span> 列表2</span><br><span class="line"><span class="bullet">	-</span> 列表2.1</span><br><span class="line"></span><br><span class="line">[<span class="string">超链接</span>](<span class="link">http://www.baidu/com</span>)</span><br><span class="line"></span><br><span class="line">![<span class="string">插入图片</span>](<span class="link">url</span>)</span><br><span class="line"></span><br><span class="line">--- #分割线</span><br><span class="line"></span><br><span class="line"><span class="emphasis">*斜体文字*</span></span><br><span class="line"><span class="strong">**加粗文字**</span></span><br><span class="line"></span><br><span class="line"><span class="code">`单行代码块`</span> #模板字符串的内容会包含在代码块中</span><br><span class="line"></span><br><span class="line"><span class="code">```</span></span><br><span class="line"><span class="code">多行代码块</span></span><br><span class="line"><span class="code">```</span></span><br><span class="line"></span><br><span class="line"><span class="quote">&gt; 引用内容</span></span><br></pre></td></tr></table></figure>
+
+<p><a href="http://www.baidu.com/">超链接</a></p>
+<p><a href="https://tholman.com/github-corners/">github标签</a></p>
+<p><a href="https://fontawesome.com/v5.15/icons?d=gallery&p=2">图标库</a></p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+      </tags>
+  </entry>
+</search>
